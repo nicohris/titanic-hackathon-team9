@@ -15,8 +15,8 @@ This project is designed to be completed **entirely within the `titanic_analysis
 
 .
 ├── data/ <br/>
-│    ├── train.csv <br/>
-│    └── test.csv <br/>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── train.csv <br/>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── test.csv <br/>
 ├── .gitignore <br/>
 ├── README.md <br/>
 ├── requirements.txt <br/>
