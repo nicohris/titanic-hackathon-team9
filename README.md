@@ -14,14 +14,14 @@ For the full competition details, rules, and data description, please visit the 
 This project is designed to be completed **entirely within the `titanic_analysis.ipynb` Jupyter Notebook**. The structure is simple:
 
 .
-├── data/
-│   ├── train.csv
-│   └── test.csv
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── submission.csv
-└── titanic_analysis.ipynb
+├── data/ <br/>
+│   ├── train.csv <br/>
+│   └── test.csv <br/>
+├── .gitignore <br/>
+├── README.md <br/>
+├── requirements.txt <br/>
+├── submission.csv <br/>
+└── titanic_analysis.ipynb <br/>
 
 ## 🚀 Getting Started
 
@@ -29,8 +29,8 @@ Follow these steps to set up your project. You'll need to have **Anaconda** or *
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [your-repository-url]
-    cd [your-repository-name]
+    git clone titanic-hackathon
+    cd titanic-hackathon
     ```
 
 2.  **Create a Conda Environment:**
