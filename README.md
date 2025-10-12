@@ -50,11 +50,13 @@ Follow these steps to set up your project. You'll need to have **Anaconda** or *
 4.  **Download the Data:**
     Download `train.csv` and `test.csv` from the [Kaggle data page](https://www.kaggle.com/c/titanic/data) and place them inside the `data/` folder.
 
-5.  **Start Your Work:**
-    Launch JupyterLab and open the **`titanic_analysis.ipynb`** file to begin.
+5.  **Start Your Work in VS Code:**
+    Open the entire project folder in VS Code with a single command.
     ```bash
-    jupyter lab
+    code .
     ```
+    Once VS Code opens, open the `titanic_analysis.ipynb` file. In the top-right corner, click "Select Kernel." A dropdown will appear; be sure to choose the Python interpreter from your **`titanic-env`** Conda environment.
+
 
 ## 📝 Your Task: A Workflow for Your Notebook
 
