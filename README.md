@@ -1,3 +1,19 @@
+Our final notebook is final_submission_16h.ipynb, and the corresponding CSV file is submission_dernier_16h.csv.
+Please note that the upload time was slightly delayed. We apologize for the inconvenience — I was the only team member with the final version of the code, and I had a medical appointment immediately after the hackathon.
+We are truly sorry if this caused any disruption.
+Thank you for your understanding.
+
+<img width="1260" height="75" alt="image" src="https://github.com/user-attachments/assets/43884ae5-f0de-419d-8e0e-ec23a017a543" />
+
+
+
+
+
+
+
+
+
+
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
 
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
