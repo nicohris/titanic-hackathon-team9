@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
 
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
@@ -89,3 +90,7 @@ All of your work—from exploration to final model training—should be done ins
 The leaderboard is scored based on **accuracy**—the percentage of passengers you correctly predict.
 
 Good luck, and have fun!
+=======
+# titanic-hackathon-team9
+titanic-hackathon
+>>>>>>> 53e66c6e6db51fca1b37bfdcf34ddc8c9a586276
