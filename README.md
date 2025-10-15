@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
 
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
@@ -58,7 +57,6 @@ Follow these steps to set up your project. You'll need to have **Anaconda** or *
     ```
     Once VS Code opens, open the `titanic_analysis.ipynb` file. In the top-right corner, click "Select Kernel." A dropdown will appear; be sure to choose the Python interpreter from your **`titanic-env`** Conda environment.
 
-
 ## 📝 Your Task: A Workflow for Your Notebook
 
 All of your work—from exploration to final model training—should be done inside `titanic_analysis.ipynb`. Use the pre-made Markdown cells to structure your work with clear headings for each step.
@@ -90,7 +88,3 @@ All of your work—from exploration to final model training—should be done ins
 The leaderboard is scored based on **accuracy**—the percentage of passengers you correctly predict.
 
 Good luck, and have fun!
-=======
-# titanic-hackathon-team9
-titanic-hackathon
->>>>>>> 53e66c6e6db51fca1b37bfdcf34ddc8c9a586276
